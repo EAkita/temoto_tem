@@ -1,0 +1,14 @@
+repositories:
+  temoto_temp/src/temoto:
+    type: git
+    url: https://github.com/temoto-framework/temoto.git
+    version: master
+  temoto_temp/src/robot_support_pkgs:
+    type: git
+    url: https://github.com/husky/husky.git
+    version: noetic-devel
+  temoto_temp/src/robot_temoto_config:
+    type: git
+    url: https://github.com/temoto-framework-demos/temoto_migration_dev.git
+    version: main
+  
